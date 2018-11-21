@@ -1,1 +1,1 @@
-"# python_api_with_mysql" 
+apredendo como criar api rest com python e mysql
